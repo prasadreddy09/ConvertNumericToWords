@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ConvertNumericToWords", "ConvertNumericToWords\", "{A413A127-97CD-423F-9DEB-1236CB4AEC63}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59285"
+		Debug.AspNetCompiler.PhysicalPath = "ConvertNumericToWords\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59285\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59285"
+		Release.AspNetCompiler.PhysicalPath = "ConvertNumericToWords\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59285\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59285"
+		SlnRelativePath = "ConvertNumericToWords\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A413A127-97CD-423F-9DEB-1236CB4AEC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A413A127-97CD-423F-9DEB-1236CB4AEC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803723BB-B379-47E7-8108-60027FF07174}
+	EndGlobalSection
+EndGlobal
